@@ -1,0 +1,35 @@
+When visiting: http://localhost:2540/
+---------------------------------------------
+Parent Directory/
+./http-streams.txt
+./cat.html
+./MyWebServer.class
+./ListenWorker.class
+./serverlog.txt
+./MyWebServer.java
+./dog.txt
+./addnums.html
+./MyWebServer Checklist.html
+./sub-a/
+
+When visiting: http://localhost:2540/dog.txt
+---------------------------------------------
+This is Luis's dog file on his localhost. Good job!
+
+
+When visiting: http://localhost:2540/cat.html
+---------------------------------------------
+This is Luis's
+CAT
+html file
+
+
+When visiting: http://localhost:2540/sub-a/
+---------------------------------------------
+Parent Directory/
+./sub-a/sub-b/
+
+When visiting: http://localhost:2540/sub-a/sub-b/
+---------------------------------------------
+Parent Directory/
+./sub-a/sub-b/cat.html
